@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm SeungHyeon from South Korea 👋
 
 <!--
 **Mer3167/Mer3167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
