@@ -1,5 +1,5 @@
 ### Hi! I'm Seung Hyeon from South Korea 👋
-### I'm learned C, C++, JAVA and Python
+### I'm learned C, C++, JAVA, Python, Kotlin
 
 <!--
 **Mer3167/Mer3167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
